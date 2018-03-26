@@ -1,0 +1,13 @@
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\bin\Release\NetSolution.exe.config
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\bin\Release\NetSolution.exe
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\bin\Release\NetSolution.pdb
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\bin\Release\Newtonsoft.Json.dll
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\bin\Release\Newtonsoft.Json.xml
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\obj\Release\NetSolution.Form1.resources
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\obj\Release\NetSolution.Properties.Resources.resources
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\obj\Release\NetSolution.csproj.GenerateResource.cache
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\obj\Release\NetSolution.csproj.CoreCompileInputs.cache
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\obj\Release\NetSolution.csproj.CopyComplete
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\obj\Release\NetSolution.exe
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\obj\Release\NetSolution.pdb
+C:\Users\tony\Dropbox\Test\NetSolution\NetSolution\obj\Release\NetSolution.csprojResolveAssemblyReference.cache
