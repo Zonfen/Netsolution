@@ -27,8 +27,8 @@ namespace NetSolution
     public partial class Form1 : Form
     {
         private string searchText = "";
-        private static string apiKey = "988653aa72c493ee7cae5dc19416ecbf";
         private string searchURL = "";
+        private static string apiKey = "988653aa72c493ee7cae5dc19416ecbf";        
 
         private dynamic jsonObject = null;
         bool isThreadfree = true;
@@ -75,8 +75,8 @@ namespace NetSolution
                         this.BeginInvoke(action);
 
                         GUIinteractions();
-                        isThreadfree = true;
                     }
+                    isThreadfree = true;
                 });
                 if(isThreadfree)
                     workerThread.Start();
@@ -92,7 +92,6 @@ namespace NetSolution
                 int maxResults = 20;
                 if (jsonObject.total_results < maxResults)
                     maxResults = jsonObject.total_results;
-
 
                 ImageList imgs = new ImageList();
                 imgs.ImageSize = new Size(75, 75);
